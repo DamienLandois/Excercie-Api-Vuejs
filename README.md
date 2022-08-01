@@ -27,3 +27,22 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## AXIOS
+[AXIOS DOC] https://fr.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
+
+L'application utilise axios
+
+Installation d'axios' -> "npm install axios"
+
+- On peut vérifier la version d'axios dans le fichier package-lock.json ou package.json dans les dependencies.
+
+## VUE-ROUTER
+[Vue-router DOC] https://router.vuejs.org/installation.html#npm
+
+L'application utilise Vue-router@4
+
+Installation de Vue-router -> "npm install vue-router@4"
+
+- ensuite verifier le fichier "main.js", ".use(router)" doit y etre present ligne 6.
+
